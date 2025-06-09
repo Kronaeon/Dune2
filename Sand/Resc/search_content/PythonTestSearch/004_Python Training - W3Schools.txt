@@ -1,0 +1,495 @@
+URL: https://www.w3schools.com/python/python_training.asp
+Title: Python Training - W3Schools
+Rank: 4
+--------------------------------------------------------------------------------
+
+Python Training
+Menu
+Search field
+×
+
+Sign In
+★
++1
+Get Certified
+For Teachers
+Spaces
+Plus
+Get Certified
+For Teachers
+Spaces
+Plus
+❮
+❯
+HTML
+CSS
+JAVASCRIPT
+SQL
+PYTHON
+JAVA
+PHP
+HOW TO
+W3.CSS
+C
+C++
+C#
+BOOTSTRAP
+REACT
+MYSQL
+JQUERY
+EXCEL
+XML
+DJANGO
+NUMPY
+PANDAS
+NODEJS
+DSA
+TYPESCRIPT
+ANGULAR
+GIT
+POSTGRESQL
+MONGODB
+ASP
+AI
+R
+GO
+KOTLIN
+SASS
+VUE
+GEN AI
+SCIPY
+CYBERSECURITY
+DATA SCIENCE
+INTRO TO PROGRAMMING
+BASH
+RUST
+Python
+Tutorial
+Python HOME
+Python Intro
+Python Get Started
+Python Syntax
+Python Comments
+Python Variables
+Python Variables
+Variable Names
+Assign Multiple Values
+Output Variables
+Global Variables
+Variable Exercises
+Python Data Types
+Python Numbers
+Python Casting
+Python Strings
+Python Strings
+Slicing Strings
+Modify Strings
+Concatenate Strings
+Format Strings
+Escape Characters
+String Methods
+String Exercises
+Python Booleans
+Python Operators
+Python Lists
+Python Lists
+Access List Items
+Change List Items
+Add List Items
+Remove List Items
+Loop Lists
+List Comprehension
+Sort Lists
+Copy Lists
+Join Lists
+List Methods
+List Exercises
+Python Tuples
+Python Tuples
+Access Tuples
+Update Tuples
+Unpack Tuples
+Loop Tuples
+Join Tuples
+Tuple Methods
+Tuple Exercises
+Python Sets
+Python Sets
+Access Set Items
+Add Set Items
+Remove Set Items
+Loop Sets
+Join Sets
+Set Methods
+Set Exercises
+Python Dictionaries
+Python Dictionaries
+Access Items
+Change Items
+Add Items
+Remove Items
+Loop Dictionaries
+Copy Dictionaries
+Nested Dictionaries
+Dictionary Methods
+Dictionary Exercises
+Python If...Else
+Python Match
+Python While Loops
+Python For Loops
+Python Functions
+Python Lambda
+Python Arrays
+Python OOP
+Python Classes/Objects
+Python Inheritance
+Python Iterators
+Python Polymorphism
+Python Scope
+Python Modules
+Python Dates
+Python Math
+Python JSON
+Python RegEx
+Python PIP
+Python Try...Except
+Python String Formatting
+Python User Input
+Python VirtualEnv
+File Handling
+Python File Handling
+Python Read Files
+Python Write/Create Files
+Python Delete Files
+Python Modules
+NumPy Tutorial
+Pandas Tutorial
+SciPy Tutorial
+Django Tutorial
+Python Matplotlib
+Matplotlib Intro
+Matplotlib Get Started
+Matplotlib Pyplot
+Matplotlib Plotting
+Matplotlib Markers
+Matplotlib Line
+Matplotlib Labels
+Matplotlib Grid
+Matplotlib Subplot
+Matplotlib Scatter
+Matplotlib Bars
+Matplotlib Histograms
+Matplotlib Pie Charts
+Machine Learning
+Getting Started
+Mean Median Mode
+Standard Deviation
+Percentile
+Data Distribution
+Normal Data Distribution
+Scatter Plot
+Linear Regression
+Polynomial Regression
+Multiple Regression
+Scale
+Train/Test
+Decision Tree
+Confusion Matrix
+Hierarchical Clustering
+Logistic Regression
+Grid Search
+Categorical Data
+K-means
+Bootstrap Aggregation
+Cross Validation
+AUC - ROC Curve
+K-nearest neighbors
+Python DSA
+Python DSA
+Lists and Arrays
+Stacks
+Queues
+Linked Lists
+Hash Tables
+Trees
+Binary Trees
+Binary Search Trees
+AVL Trees
+Graphs
+Linear Search
+Binary Search
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Counting Sort
+Radix Sort
+Merge Sort
+Python MySQL
+MySQL Get Started
+MySQL Create Database
+MySQL Create Table
+MySQL Insert
+MySQL Select
+MySQL Where
+MySQL Order By
+MySQL Delete
+MySQL Drop Table
+MySQL Update
+MySQL Limit
+MySQL Join
+Python MongoDB
+MongoDB Get Started
+MongoDB Create DB
+MongoDB Collection
+MongoDB Insert
+MongoDB Find
+MongoDB Query
+MongoDB Sort
+MongoDB Delete
+MongoDB Drop Collection
+MongoDB Update
+MongoDB Limit
+Python Reference
+Python Overview
+Python Built-in Functions
+Python String Methods
+Python List Methods
+Python Dictionary Methods
+Python Tuple Methods
+Python Set Methods
+Python File Methods
+Python Keywords
+Python Exceptions
+Python Glossary
+Module Reference
+Random Module
+Requests Module
+Statistics Module
+Math Module
+cMath Module
+Python How To
+Remove List Duplicates
+Reverse a String
+Add Two Numbers
+Python Examples
+Python Examples
+Python Compiler
+Python Exercises
+Python Quiz
+Python Server
+Python Syllabus
+Python Study Plan
+Python Interview Q&A
+Python Bootcamp
+Python Certificate
+Python Training
+Python
+Training
+❮ Previous
+Next ❯
+Introduction:
+Python is a popular programming language that can be used for a wide range of applications.
+W3Schools offers an Python training course that covers Python foundations and more.
+The course includes the W3Schools
+Certified Python Developer
+certification.
+The Python training is relevant for companies and schools that want to certify their employees or students.
+Organizations can track learner progress, get insights and manage everything from licenses to certificates with
+W3Schools Academy
+.
+Remember that you can always learn for free on W3Schools with the
+Python Tutorial
+.
+Buy W3Schools Academy »
+Watch Demo »
+*Academy is available for companies and schools only.
+Track progress
+Get analytics to track learner progress and results.
+Self-paced
+Flexible timelines and pacing to match busy schedules.
+Globally Recognized
+Certifications that are trusted by leading organizations worldwide
+Python Training with W3Schools
+W3Schools has been training millions of learners since 1998.
+Governments, schools, and organizations worldwide trust W3Schools to train employees and students.
+W3Schools training materials and content have been well-proven over the years and are updated regularly.
+With the W3Schools Academy pricing model, it is now one of the worlds most affordable quality Python training options there is.
+Learn About Academy »
+Learning Outcomes
+The Certificate Course includes all the training materials to pass the
+Certified Python Developer
+certification exam.
+No prerequisites are required to take the course.
+The learners will be able to:
+Understand Python basics, such as syntax, variables, and data types.
+Write Python code using loops, conditionals, and functions.
+Handle files (open, read, write) using Python.
+Use Python libraries and modules for specific tasks.
+Work with data structures like lists, tuples, sets, and dictionaries.
+Develop programs that use object-oriented concepts such as classes and inheritance.
+Develop a problem-solving mindset.
+If you are not a company or school, you can still buy the course for personal use.
+Read more about W3Schools courses here:
+W3Schools Courses
+Certified Python Developer
+After completing the training modules the learner will take the end of pathway exam.
+When the learner passes the exam, the learner will get the
+Certified Python Developer
+certification.
+The exam is a multiple choice exam with 60 questions and a duration of 60 minutes.
+Image of a Python Certificate:
+The certificate does not expire and is valid for lifetime.
+It is shareable and can be added to your CV or LinkedIn
+profile.
+You can read more about the certificate here:
+Python Certificate
+Track Learner Progress
+As an employer or a school you can track learner progress and results.
+Assign courses to learners with ease and get them started in no time.
+With W3Schools Academy you can manage everything from licenses to certificates.
+It will give you everything you need to train your employees or students in different technologies.
+Image of class overview in Academy:
+You can read more about the Academy here:
+W3Schools Academy
+Note:
+If you don't want to track progress, there is an option to give them access to the course without any management.
+Interactive Learning
+The course is designed to be interactive and fun to learn.
+The learner will engage with different learning activities to keep them engaged.
+This includes quizzes, code exercises, challenges, and a final exam.
+Stay engaged with hands-on coding challenges that help you practice and test what you've learned.
+Image of one of the activity types in the course, a Python Challenge:
+Python is best learned by doing, and this is why we have included a lot of challenges in the course.
+You will get access to hundreds of coding challenges
+Get instant feedback with auto-grading
+Receive personalized guidance with manual grading
+Work on exercises ranging from simple to complex
+You can read more about the different types of activities here:
+Coding Exercises
+Training Course Overview
+Pricing Academy
+$5.99 / month per learner
+Availability
+For companies and schools only
+Course level
+Beginner
+Time to complete
+66 hours on average
+Course Format
+Self-paced
+Language
+English
+Prerequisites
+None
+Exam and Certification
+Included
+Number of certificates
+1
+Certificate name
+Certified Python Developer
+Exam format
+Multiple choice
+Certification skill level
+Intermediate (40%), Advanced (75%) and Professional (90%)
+Certification Expiration
+Never
+How to Get Started
+Purchase W3Schools Academy access for your organization
+Create a class and invite your learners
+Assign the Python course to your class
+Monitor learner progress through the admin dashboard
+Review analytics and certification results
+Are you ready to start training your employees today?
+Buy Access to Academy Now »
+❮ Previous
+Next ❯
+★
++1
+Track your progress - it's free!
+Log in
+Sign Up
+COLOR PICKER
+PLUS
+SPACES
+GET CERTIFIED
+FOR TEACHERS
+FOR BUSINESS
+CONTACT US
+×
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:
+sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:
+help@w3schools.com
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+
+
+
+
+FORUM
+ABOUT
+ACADEMY
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness
+of all content. While using W3Schools, you agree to have read and accepted our
+terms of use
+,
+cookie and privacy policy
+.
+Copyright 1999-2025
+by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS
+.

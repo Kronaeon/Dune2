@@ -1,0 +1,372 @@
+URL: https://www.w3schools.com/
+Title: W3Schools Online Web Tutorials
+Rank: 7
+--------------------------------------------------------------------------------
+
+W3Schools Online Web Tutorials
+Menu
+Search field
+×
+
+Sign In
+★
++1
+Get Certified
+For Teachers
+Spaces
+Plus
+Get Certified
+For Teachers
+Spaces
+Plus
+❮
+❯
+HTML
+CSS
+JAVASCRIPT
+SQL
+PYTHON
+JAVA
+PHP
+HOW TO
+W3.CSS
+C
+C++
+C#
+BOOTSTRAP
+REACT
+MYSQL
+JQUERY
+EXCEL
+XML
+DJANGO
+NUMPY
+PANDAS
+NODEJS
+DSA
+TYPESCRIPT
+ANGULAR
+GIT
+POSTGRESQL
+MONGODB
+ASP
+AI
+R
+GO
+KOTLIN
+SASS
+VUE
+GEN AI
+SCIPY
+CYBERSECURITY
+DATA SCIENCE
+INTRO TO PROGRAMMING
+BASH
+RUST
+Learn to Code
+With the world's largest web developer site.
+Not Sure Where To Begin?
+HTML
+The language for building web pages
+Learn HTML
+Video Tutorial
+HTML Reference
+Get Certified
+HTML Example:
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Tutorial</title>
+</head>
+<body>
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
+Try it Yourself
+CSS
+The language for styling web pages
+Learn CSS
+CSS Reference
+Get Certified
+CSS Example:
+body {
+background-color: lightblue;
+}
+h1 {
+color: white;
+text-align: center;
+}
+p {
+font-family: verdana;
+}
+Try it Yourself
+JavaScript
+The language for programming web pages
+Learn JavaScript
+JavaScript Reference
+Get Certified
+JavaScript Example:
+<button onclick="myFunction()">Click Me!</button>
+<script>
+function myFunction() {
+let x = document.getElementById("demo");
+x.style.fontSize = "25px";
+x.style.color = "red";
+}
+</script>
+Try it Yourself
+Python
+A popular programming language
+Learn Python
+Python Reference
+Get Certified
+Python Example:
+if 5 > 2:
+print("Five is greater than two!")
+Try it Yourself
+SQL
+A language for accessing databases
+Learn SQL
+SQL Reference
+Get Certified
+SQL Example:
+SELECT * FROM Customers
+WHERE Country='Mexico';
+Try it Yourself
+PHP
+A web server programming language
+Learn PHP
+jQuery
+A JS library for developing web pages
+Learn jQuery
+Java
+A programming language
+Learn Java
+C++
+A programming language
+Learn C++
+W3.CSS
+A CSS framework for faster and better responsive web pages
+Learn W3.CSS
+Bootstrap
+A CSS framework for designing better web pages
+Learn Bootstrap
+C
+C#
+R
+Kotlin
+Node.js
+React
+JSON
+Vue
+MySQL
+XML
+Sass
+Icons
+RWD
+Graphics
+SVG
+Canvas
+Raspberry Pi
+Cyber
+Security
+Colors
+Git
+Matplotlib
+NumPy
+Pandas
+SciPy
+ASP
+AngularJS
+AppML
+Go
+TypeScript
+Django
+MongoDB
+Statistics
+Data Science
+PostgreSQL
+HowTo
+Rust
+Spaces
+Typing Speed
+Excel
+DSA - D
+ata
+S
+tructures and
+A
+lgorithms
+Machine Learning
+Artificial Intelligence
+Introduction to Programming
+Bash
+Log in
+/ Sign Up
+Create a
+free
+account to track your progress, and get access to more features and learning materials.
+Sign Up for Free
+Code Editor
+With our online code editor, you can edit code and view the result in your browser
+Frontend
+Backend
+Try Frontend Editor (HTML/CSS/JS)
+Try Backend Editor (Python/PHP/Java/C..)
+W3Schools Spaces
+If you want to create your own website, check out
+W3Schools Spaces
+.
+It is free to use, and does not require any setup:
+Learn More
+Become a Plus User
+And unlock powerful features:
+Browse W3Schools
+without ads
+Build and host Websites
+Unlimited challenges
+Unlimited practice tests
+Get extra credits
+Priority support
+Learn More
+For Teachers
+Streamline your teaching:
+Manage your classroom
+Ready-to-use learning materials
+Customize study plans
+Track student progress
+Interactive coding challenges
+Learn More
+Color Picker
+W3Schools' famous color picker:
+Code Game
+Help the Lynx collect pine cones!
+Play Game
+Exercises and Quizzes
+Test your skills!
+Exercises
+Quizzes
+Web Templates
+Browse our selection of
+free
+responsive HTML Templates
+Browse Templates
+Kickstart your career
+Get certified by completing a course
+Get started
+w
+3
+s
+c
+h
+o
+o
+l
+s
+C
+E
+R
+T
+I
+F
+I
+E
+D
+.
+2
+0
+2
+5
+How To Section
+Code snippets for HTML, CSS and JavaScript
+For example, how to create a slideshow:
+Learn How To
+★
++1
+Track your progress - it's free!
+Log in
+Sign Up
+PLUS
+SPACES
+GET CERTIFIED
+FOR TEACHERS
+FOR BUSINESS
+CONTACT US
+×
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:
+sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:
+help@w3schools.com
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+
+
+
+
+FORUM
+ABOUT
+ACADEMY
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness
+of all content. While using W3Schools, you agree to have read and accepted our
+terms of use
+,
+cookie and privacy policy
+.
+Copyright 1999-2025
+by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS
+.

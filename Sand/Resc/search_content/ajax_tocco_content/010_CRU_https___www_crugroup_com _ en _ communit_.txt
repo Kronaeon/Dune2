@@ -1,0 +1,66 @@
+RANK: 10
+TITLE: CRU
+https://www.crugroup.com › en › communit…
+URL: https://www.crugroup.com/en/communities/thought-leadership/2016/the-emergence-of-malaysia-as-a-major-hub-for-manganese-ferroalloy-production/
+DESCRIPTION: The emergence of Malaysia as a major hub for … Nippon Denko Co. Ltd., which is affiliated with NSSMC (i.e. Nippon Steel & Sumitomo Metal Corp.), has a 25% ownership interest in Pertama and …
+================================================================================
+
+The emergence of Malaysia as a major hub for manganese fe... - CRU Group
+The emergence of Malaysia as a major hub for manganese ferroalloy production
+20 December 2016
+Author
+Jorn de Linde
+Ferroalloys
+Ferromanganese
+The new ferroalloy plants in Sarawak differ considerably in terms of their intended scale of operations, product mix and the size of individual furnaces.  However, they all have access to manganese ore from affiliated mines in South Africa and, most importantly, the benefit of a long-term supply of comparably low-cost electric power under agreements with Sarawak Energy Berhad through its wholly-owned subsidiary Syarikat SESCO Berhad.
+Among the three plants, Sakura Ferroalloys Sdn. Bhd. was the last to execute a power purchase agreement, but the first to commence production of manganese ferroalloys, commissioning the first of two 81 MVA furnaces in May 2016. Both units initially produced HC FeMn, although the second furnace has since been switched to SiMn. Meanwhile, Pertama Ferroalloys Sdn. Bhd. started SiMn production in August 2016 and OM Materials Sarawak Sdn. Bhd. is expected to enter manganese ferroalloy production by end-2016 by sequentially converting a number of ferrosilicon furnaces to make HC FeMn and SiMn.
+Focus on Asian markets
+Malaysian steel production has hovered around the 4 Mt mark in recent years. This represents just 1.3% of the total output of crude steel in Asia outside China. Local demand for manganese ferroalloys is principally in the form of SiMn. Imports of SiMn into Malaysia averaged more than 36,000 t/y over the years 2013-2015, while imports of HC FeMn averaged less than 6,500 t/y. During this period, the majority of SiMn imports originated in India, while imports of HC FeMn were split fairly evenly between South Africa, South Korea and India.
+Going forward, most, if not all, of these imports are likely to be displaced by locally-produced alloys. Still, as the three plants reach full capacity, the Malaysian market will be able to absorb, at best, 15% of the total supply of SiMn, implying that at least 85% of output will be exported. The share of HC FeMn production destined for other countries will be even larger, eventually in excess of 95%.
+Because of ownership links and off-take agreements, much of the Malaysian production of manganese ferroalloys will be targeted at other markets in Asia. Trading house Sumitomo Corp. (26.64%) and Taiwanese steel producer China Steel (19.0%) hold substantial ownership shares in Sakura Ferroalloys, while several of the major Japanese steelmakers are linked to Pertama Ferroalloys. Nippon Denko Co. Ltd., which is affiliated with NSSMC (i.e. Nippon Steel & Sumitomo Metal Corp.), has a 25% ownership interest in Pertama and Shinsho Corp., the core trading company of the Kobe Steel Group, owns 7%.
+Taiwan is fully dependent on imports of manganese ferroalloys. Imports also meet the vast majority of Japanese SiMn demand, while South Korea still obtains more than half of the required SiMn supply from domestic operations. The graph above shows the size of SiMn imports by source in the key Asian import markets during 2016 H1. Of the countries shown, Indonesia is actually a net SiMn exporter, but it does buy a significant amount of SiMn from other countries. It is evident that India is ranked as the largest source of supply to these markets, ahead of Vietnam, Ukraine, Kazakhstan and Australia.
+The picture that emerges for HC FeMn is not radically different, although the import dependence of Japan is much smaller, while South Korea remains a large HC FeMn exporter. Again, India ranks as a major source of supply, although in 2015 and again in 2016 H1, shipments of Indian HC FeMn to Taiwan and Japan were smaller than those from South Korea and Australia.
+Logistics also favour shipments of manganese ferroalloys to neighbouring markets in Asia. However, freight costs from Sarawak to the US and Europe are likely to come down as ports and other local infrastructure are developed further. Larger export volumes will also reduce unit transportation costs over time. Whether substantial quantities of manganese ferroalloys eventually are shipped from Malaysia to more distant locations or not, global trade flows will be affected as material displaced in Asia seeks alternative outlets.
+Low-cost location
+The new Malaysian plants will rely principally on imported manganese ore, although some local ore may be used as well. The source and grade of this material will vary, but it is reasonable to assume that the prices paid by local plants will, to a large extent, be linked to international benchmarks. At least initially, Malaysian plants will rely mostly on metallurgical coke from China, although semi-coke/gas-coke will likely be used as well, especially if local sources of supply become available.
+As highlighted by the graph below, the main competitive advantage of the new Malaysian plants is low-cost power; we estimate that power costs in Malaysia are of the order of $40-45 /MWh. This is well below the world average for ferroalloy plants and also less than half the price of electricity paid by many plants located in other Asian countries. While the upward pressure on power rates in many Asian countries has abated, power prices remain comparatively high in China, Japan, India and South Korea, as ferroalloy producers in these countries have not benefited from currency depreciation to the same extent as those in most other nations.
+Power prices in some parts of China have been reduced significantly, as local authorities seek to support local industry, although a substantial gap remains between electricity rates in the North and South of China. In India, the price of power also varies significantly by state and, in some instances, by individual utility as well but, as a norm, rates are much higher than those paid by ferroalloy producers with access to captive generation (n.b. some companies use transfer prices that are closer to the price of purchased electricity). In South Korea, on the other hand, electricity tariffs are uniform throughout the country, but rates vary by time of day and season and the effective price of power consequently depends on the daily and seasonal pattern of ferroalloy production.
+For the Malaysian plants, power provides an advantage in operating costs for SiMn production of more than $160 /t versus the regional average excluding Malaysia. The previous graph also shows that, even if the Chinese export tax is excluded, costs in Malaysia are lower than they are on average in China. The new plants in Sarawak present a competitive challenge for manganese ferroalloy producers throughout Asia. However, an examination of the cost positions of plants in Asia, as well as existing trade flows, shows that the new, low-cost Malaysian supply poses the biggest threat to export-oriented Indian plants that have to rely on comparatively expensive purchased power.
+Want to read more? Register to continue reading and gain access to all CRU articles
+Read more
+Share
+Find out how CRU can help you with this topic.
+Get in Touch
+Discover more from CRU
+Event
+Ferroalloys USA Connection Summit 2025
+19-21 October 2025
+Miami, FL, USA
+Event
+CRU Ferroalloys Europe Connections Summit 2025
+10-12 June 2025
+Amsterdam, The Netherlands
+Article
+How has HPQ demand and supply emerged as a hot topic?
+14 May 2025
+Article
+Understanding manganese products emissions can unlock decarbonisation options
+16 April 2025
+Solution
+DataLab Excel Add In
+Article
+Vanadium supply gap looms as Chinese rebar standards tighten amid battery boom
+07 February 2025
+Commodity
+Steel
+Industry
+Minerals for Modern Sustainable Lifestyle Case Study
+Industry
+Consumer Goods and Retail
+Commodity
+Ferroalloys
+Solution
+Sustainability and Emissions Service
+Article
+CRU Ferroalloys Conference 2024: supply disruptions shake the markets
+01 July 2024

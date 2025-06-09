@@ -1,0 +1,306 @@
+URL: https://campus.w3schools.com/products/python-course
+Title: Learn Python — W3Schools.com
+Rank: 10
+--------------------------------------------------------------------------------
+
+Learn Python — W3Schools.com
+Skip to content
+Learn Python
+Save
+30
+%
+Save
+30
+%
+Original price
+$95.00
+Original price
+$95.00
+-
+Original price
+$95.00
+Original price
+$95.00
+Current price
+$66.50
+$66.50
+-
+$66.50
+Current price
+$66.50
+|
+/
+Start your programming journey with our all-in-one, beginner-friendly course.
+✅
+No experience needed
+– perfect for beginners!
+✅
+Learn at your own pace
+– flexible, self-paced learning.
+✅
+Master Python
+– essential for web development, data science, and automation.
+✅
+Get access to premium learning content
+– Challenges, Practice Tests, and much more!
+✅
+Earn a certification
+– boost your resume and stand out.
+✅
+Exam included
+– everything you need to succeed!
+Join thousands of learners and get
+certified with W3Schools.
+14-Day Money-Back Guarantee
+Quantity
+Add to Cart
+This item is a recurring or deferred purchase. By continuing, I agree to the
+cancellation policy
+and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
+Interested in multiple purchases? Send us a request.
+Name
+Email
+Quantity
+Message
+Request quote
+Testimonials
+"It’s a very good platform for learning. Breaks each step down and it’s so easy to understand , you can also learn, write and run code on the go as it has ide(run environment) that are integrated into the browser. I highly recommend!!!"
+-Ahmed Y.
+"Perfect e-learning course for beginners. The training is very well structured together with quizes after almost every lesson. Great job! I really enjoyed it!"
+-Jan K.
+"It was fun learning html with w3schools. An amazing experience. Simple,clear, and concise, easy to learn tutorials, exercises and 'try it yourself ' as a tool of measure of understanding."
+-Gerald O.
+Skill-Level Certifications
+Use the W3Schools Certification Program to show and confirm your skills. The exams are adaptive, starting at intermediate and moving to professional and advanced levels. When you pass, you earn the
+Certified Python Developer Certification
+.
+Our platform offers certification exams right at your fingertips, and you’ll see your results immediately, so you know exactly where you stand. These industry-recognized certificates help you stand out and give you a head start in your career.
+This course includes the exam.
+By enrolling, you’ll receive all the materials and guidance you need to prepare for and pass the test.
+Add to cart!
+W3Schools Challenges
+Create and use engaging hands-on coding challenges, making learning both fun and competitive.
+You will receive instant feedback on your performance in challenges, allowing you to progress without waiting for a review.
+Add to cart!
+Python Course and Certification
+Dive into the world of Python with our course and learn one of the most popular programming languages. Python is widely used for web development, data analysis, and more.
+This course contains reading materials, quizzes, and exercises that end with a final exam and certification.
+The Exam is included in this certificate course.
+You have three attempts to pass the test or improve your score. Your highest score will always be recorded.
+Add to cart!
+Our users have jobs at
+Learning Outcomes
+Understand Python basics, such as syntax, variables, and data types.
+Write Python code using loops, conditionals, and functions.
+Handle files (open, read, write) using Python.
+Use Python libraries and modules for specific tasks.
+Work with data structures like lists, tuples, sets, and dictionaries.
+Develop programs that use object-oriented concepts such as classes and inheritance.
+Develop a problem-solving mindset.
+Add to cart!
+Industry certification
+Industry recognized certification to your LinkedIn profile, resume, or CV.
+Flexible schedule
+Complete the exam at your own pace. The exams have no expiration date.
+Join the millions of learners
+W3Schools is trusted by over 75 million learners and companies every month.
+Benefits of Python Certificate:
+Get better chances at landing jobs in Python Development.
+Stand out from other candidates
+The Certificate proves you have mastered the fundamental skills of Python Development, which builds trust with potential employers.
+Showcase your skills on your resume, LinkedIn and other social media.
+Become more attractive in the job market
+Add to cart!
+Overview of the Training Modules
+Topic
+Description
+Python HOME
+Start learning Python
+Python Intro
+Introduction to Python programming
+Python Get Started
+Set up your Python environment
+Python Syntax
+Understand Python syntax
+Python Comments
+Add comments in Python
+Python Variables
+Work with variables in Python
+Python Data Types
+Explore Python data types
+Python Numbers
+Working with numbers
+Python Casting
+Convert between data types
+Python Strings
+Work with text in Python
+Python Booleans
+Understanding true/false values
+Python Operators
+Perform operations in Python
+Python Lists
+Manage lists in Python
+Python Tuples
+Use tuples in Python
+Python Sets
+Working with sets
+Python Dictionaries
+Store data with dictionaries
+Python If...Else
+Control flow with if/else
+Python While Loops
+Looping with while
+Python For Loops
+Looping with for
+Python Functions
+Create and use functions
+Python Lambda
+Using lambda functions
+Python Arrays
+Work with arrays in Python
+Python Classes/Objects
+Object-oriented programming
+Python Inheritance
+Using inheritance in OOP
+Python Iterators
+Iterators in Python
+Python Polymorphism
+Understanding polymorphism
+Python Scope
+Understanding variable scope
+Python Modules
+Using modules in Python
+Python Dates
+Handling dates and time
+Python Math
+Performing mathematical operations
+Python JSON
+Working with JSON in Python
+Python RegEx
+Using regular expressions
+Python PIP
+Managing Python packages
+Python Try...Except
+Error handling in Python
+Python User Input
+Handling user input
+Python String Formatting
+Format strings in Python
+Python File Handling
+Working with files
+Python NumPy
+Numerical computing with NumPy
+Python Pandas
+Data analysis with Pandas
+Python SciPy
+Scientific computing with SciPy
+Python Django
+Web development with Django
+Python Matplotlib
+Data visualization with Matplotlib
+Python Machine Learning
+Basics of machine learning
+Python MySQL
+Using MySQL with Python
+Python MongoDB
+Working with MongoDB in Python
+Get Your Certificate
+W3Schools has been a leading authority in web development education
+for over 20 years, providing comprehensive resources and training for developers
+worldwide. This recognition and credibility within the industry make our certifications in demand.
+Prepare for a career in Python
+Prepare for a career in Python
+Earn your Python certificate from W3Schools, tailored to your skill level.
+Showcase your expertise in software development, automation, and data analysis using Python.
+Qualify for high-demand job titles such as:
+Software Developer, Data Scientist, and Python Developer.
+Add to cart!
+Course overview
+Course fee:
+$95
+Course level:
+Beginner
+Time to complete:
+66 hours
+Course Format:
+Self paced
+Language:
+English
+Prerequisites:
+None
+Exam and Certification:
+Included
+Number of certificates:
+1
+Certificate name:
+Certified Python Developer
+Exam format:
+Multiple choice
+Certification skill level:
+Intermediate (40%), Advanced (75%) and Professional (90%)
+Certification Expiration:
+Never
+W3Schools Full Access
+Save
+75
+%
+Save
+75
+%
+Original price
+$1,995.00
+Original price
+$1,995.00
+-
+Original price
+$1,995.00
+Original price
+$1,995.00
+Current price
+$499.00
+$499.00
+-
+$499.00
+Current price
+$499.00
+|
+/
+View full details
+FAQ
+What is the difference between a course and a certificate?
+If you are a beginner and want to learn, you should buy the course. If you already have a lot of experience within HTML development, and only want to take the certification exam, you should buy the certificate exam instead of course.
+Courses are a structured collection of text-based modules and interactive exercises. In courses you also get a personal progress overview that tracks your progress and makes sure you resume where you last left off.
+In all our courses you also get the appropriate certificate exam and certificate for free with your course purchase.
+A W3Schools certificate is a display of knowledge you get from passing a certificate exam. The certificate will be in your name and can be shared on your resume and social media to help document and show off your knowledge as a developer.
+Employers and friends can check if the certificate is authentic using the link or QR code for the certificate.
+W3Schools Certificates are trusted by the top companies and institutions worldwide. We are the largest web developer learning site in the world.
+How long time does it take to access the exam?
+There is no waiting time.
+Immediately after completing your purchase you are sent an email link which gives you instant access to the exam.
+What are the certificate levels?
+You have 3 attempts per exam. You can choose when to take each attempt. If you don't pass, you can study and take it again at your convenience.
+How many exam attempts do I have?
+You have 3 attempts per exam. You can choose when to take each attempt. If you don't pass, you can study and take it again at your convenience.
+How long does the certificate last?
+The certificate never expires. You don't need to renew it.
+Can I take the exam online?
+All our exams are taken online with multiple choice questions. You do not need to be physically present.
+What are the different rated levels on the certificates?
+There are three different levels: intermediate, advanced and professional.
+How can I verify the authenticity of my certificate from W3Schools?
+The certificate will be issued in your name, and its authenticity can be verified through W3Schools by using the unique link or QR code provided with it.
+Do you have a money back guarantee?
+Yes! If you are not satisfied with your purchase on W3Schools Campus, you can get your money back within 14 days from the day of your purchase.
+It's simple. If you are not 100% satisfied with the course, you can get your money back, as long as no exam attempts are used.
+Our refund policy.
+Do you offer payment plans?
+Yes, W3Schools offers payment plans to make our paid courses, exams and certificates more affordable. You can choose between a 3-month or 6-month payment plan to spread the cost of your course over several months. This allows you to manage your finances more easily.
+Read more here:
+Learn about payment plans
+Top
+Back to top
+Added to your cart:
+** total_quantity ** | ** unit_price ** / ** unit_measure **
+(-
+)
+Cart subtotal

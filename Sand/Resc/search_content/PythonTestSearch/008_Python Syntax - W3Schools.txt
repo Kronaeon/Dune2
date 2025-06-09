@@ -1,0 +1,441 @@
+URL: https://www.w3schools.com/python/python_syntax.asp
+Title: Python Syntax - W3Schools
+Rank: 8
+--------------------------------------------------------------------------------
+
+Python Syntax
+Menu
+Search field
+×
+
+Sign In
+★
++1
+Get Certified
+For Teachers
+Spaces
+Plus
+Get Certified
+For Teachers
+Spaces
+Plus
+❮
+❯
+HTML
+CSS
+JAVASCRIPT
+SQL
+PYTHON
+JAVA
+PHP
+HOW TO
+W3.CSS
+C
+C++
+C#
+BOOTSTRAP
+REACT
+MYSQL
+JQUERY
+EXCEL
+XML
+DJANGO
+NUMPY
+PANDAS
+NODEJS
+DSA
+TYPESCRIPT
+ANGULAR
+GIT
+POSTGRESQL
+MONGODB
+ASP
+AI
+R
+GO
+KOTLIN
+SASS
+VUE
+GEN AI
+SCIPY
+CYBERSECURITY
+DATA SCIENCE
+INTRO TO PROGRAMMING
+BASH
+RUST
+Python
+Tutorial
+Python HOME
+Python Intro
+Python Get Started
+Python Syntax
+Python Comments
+Python Variables
+Python Variables
+Variable Names
+Assign Multiple Values
+Output Variables
+Global Variables
+Variable Exercises
+Python Data Types
+Python Numbers
+Python Casting
+Python Strings
+Python Strings
+Slicing Strings
+Modify Strings
+Concatenate Strings
+Format Strings
+Escape Characters
+String Methods
+String Exercises
+Python Booleans
+Python Operators
+Python Lists
+Python Lists
+Access List Items
+Change List Items
+Add List Items
+Remove List Items
+Loop Lists
+List Comprehension
+Sort Lists
+Copy Lists
+Join Lists
+List Methods
+List Exercises
+Python Tuples
+Python Tuples
+Access Tuples
+Update Tuples
+Unpack Tuples
+Loop Tuples
+Join Tuples
+Tuple Methods
+Tuple Exercises
+Python Sets
+Python Sets
+Access Set Items
+Add Set Items
+Remove Set Items
+Loop Sets
+Join Sets
+Set Methods
+Set Exercises
+Python Dictionaries
+Python Dictionaries
+Access Items
+Change Items
+Add Items
+Remove Items
+Loop Dictionaries
+Copy Dictionaries
+Nested Dictionaries
+Dictionary Methods
+Dictionary Exercises
+Python If...Else
+Python Match
+Python While Loops
+Python For Loops
+Python Functions
+Python Lambda
+Python Arrays
+Python OOP
+Python Classes/Objects
+Python Inheritance
+Python Iterators
+Python Polymorphism
+Python Scope
+Python Modules
+Python Dates
+Python Math
+Python JSON
+Python RegEx
+Python PIP
+Python Try...Except
+Python String Formatting
+Python User Input
+Python VirtualEnv
+File Handling
+Python File Handling
+Python Read Files
+Python Write/Create Files
+Python Delete Files
+Python Modules
+NumPy Tutorial
+Pandas Tutorial
+SciPy Tutorial
+Django Tutorial
+Python Matplotlib
+Matplotlib Intro
+Matplotlib Get Started
+Matplotlib Pyplot
+Matplotlib Plotting
+Matplotlib Markers
+Matplotlib Line
+Matplotlib Labels
+Matplotlib Grid
+Matplotlib Subplot
+Matplotlib Scatter
+Matplotlib Bars
+Matplotlib Histograms
+Matplotlib Pie Charts
+Machine Learning
+Getting Started
+Mean Median Mode
+Standard Deviation
+Percentile
+Data Distribution
+Normal Data Distribution
+Scatter Plot
+Linear Regression
+Polynomial Regression
+Multiple Regression
+Scale
+Train/Test
+Decision Tree
+Confusion Matrix
+Hierarchical Clustering
+Logistic Regression
+Grid Search
+Categorical Data
+K-means
+Bootstrap Aggregation
+Cross Validation
+AUC - ROC Curve
+K-nearest neighbors
+Python DSA
+Python DSA
+Lists and Arrays
+Stacks
+Queues
+Linked Lists
+Hash Tables
+Trees
+Binary Trees
+Binary Search Trees
+AVL Trees
+Graphs
+Linear Search
+Binary Search
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Counting Sort
+Radix Sort
+Merge Sort
+Python MySQL
+MySQL Get Started
+MySQL Create Database
+MySQL Create Table
+MySQL Insert
+MySQL Select
+MySQL Where
+MySQL Order By
+MySQL Delete
+MySQL Drop Table
+MySQL Update
+MySQL Limit
+MySQL Join
+Python MongoDB
+MongoDB Get Started
+MongoDB Create DB
+MongoDB Collection
+MongoDB Insert
+MongoDB Find
+MongoDB Query
+MongoDB Sort
+MongoDB Delete
+MongoDB Drop Collection
+MongoDB Update
+MongoDB Limit
+Python Reference
+Python Overview
+Python Built-in Functions
+Python String Methods
+Python List Methods
+Python Dictionary Methods
+Python Tuple Methods
+Python Set Methods
+Python File Methods
+Python Keywords
+Python Exceptions
+Python Glossary
+Module Reference
+Random Module
+Requests Module
+Statistics Module
+Math Module
+cMath Module
+Python How To
+Remove List Duplicates
+Reverse a String
+Add Two Numbers
+Python Examples
+Python Examples
+Python Compiler
+Python Exercises
+Python Quiz
+Python Server
+Python Syllabus
+Python Study Plan
+Python Interview Q&A
+Python Bootcamp
+Python Certificate
+Python Training
+Python
+Syntax
+❮ Previous
+Next ❯
+Execute Python Syntax
+As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:
+>>> print("Hello, World!")
+Hello, World!
+Or by creating a python file on the server, using the .py file extension, and running it in the Command Line:
+C:\Users\
+Your Name
+>python myfile.py
+Python Indentation
+Indentation refers to the spaces at the beginning of a code line.
+Where in other programming languages the indentation in code is for readability
+only, the indentation in Python is very important.
+Python uses indentation to indicate a block of code.
+Example
+if 5 > 2:
+print("Five is greater than two!")
+Try it Yourself »
+Python will give you an error if you skip the indentation:
+Example
+Syntax Error:
+if 5 > 2:
+print("Five is greater than two!")
+Try it Yourself »
+The number of spaces is up to you as a programmer, the most common use is four, but it has
+to be at least one.
+Example
+if 5 > 2:
+print("Five is greater than two!")
+if 5 > 2:
+print("Five is greater than two!")
+Try it Yourself »
+You have to use the same number of spaces in the same block of code,
+otherwise Python will give you an error:
+Example
+Syntax Error:
+if 5 > 2:
+print("Five is greater than two!")
+print("Five is greater than
+two!")
+Try it Yourself »
+Python Variables
+In Python, variables are created when you assign a value to it:
+Example
+Variables in Python:
+x = 5
+y = "Hello, World!"
+Try it Yourself »
+Python has no command for declaring a variable.
+You will learn more about variables in the
+Python Variables
+chapter.
+Comments
+Python has commenting capability for the purpose of in-code documentation.
+Comments start with a #, and Python will render the rest of the line as a comment:
+Example
+Comments in Python:
+#This is a comment.
+print("Hello, World!")
+Try it Yourself »
+Video: Python Syntax
+❮ Previous
+Next ❯
+★
++1
+Track your progress - it's free!
+Log in
+Sign Up
+COLOR PICKER
+PLUS
+SPACES
+GET CERTIFIED
+FOR TEACHERS
+FOR BUSINESS
+CONTACT US
+×
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:
+sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:
+help@w3schools.com
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+
+
+
+
+FORUM
+ABOUT
+ACADEMY
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness
+of all content. While using W3Schools, you agree to have read and accepted our
+terms of use
+,
+cookie and privacy policy
+.
+Copyright 1999-2025
+by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS
+.

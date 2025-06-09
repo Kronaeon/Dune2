@@ -1,0 +1,524 @@
+URL: https://www.w3schools.com/python/python_syllabus.asp
+Title: Python Syllabus (Curriculum) - W3Schools
+Rank: 5
+--------------------------------------------------------------------------------
+
+Python Syllabus (Curriculum)
+Menu
+Search field
+×
+
+Sign In
+★
++1
+Get Certified
+For Teachers
+Spaces
+Plus
+Get Certified
+For Teachers
+Spaces
+Plus
+❮
+❯
+HTML
+CSS
+JAVASCRIPT
+SQL
+PYTHON
+JAVA
+PHP
+HOW TO
+W3.CSS
+C
+C++
+C#
+BOOTSTRAP
+REACT
+MYSQL
+JQUERY
+EXCEL
+XML
+DJANGO
+NUMPY
+PANDAS
+NODEJS
+DSA
+TYPESCRIPT
+ANGULAR
+GIT
+POSTGRESQL
+MONGODB
+ASP
+AI
+R
+GO
+KOTLIN
+SASS
+VUE
+GEN AI
+SCIPY
+CYBERSECURITY
+DATA SCIENCE
+INTRO TO PROGRAMMING
+BASH
+RUST
+Python
+Tutorial
+Python HOME
+Python Intro
+Python Get Started
+Python Syntax
+Python Comments
+Python Variables
+Python Variables
+Variable Names
+Assign Multiple Values
+Output Variables
+Global Variables
+Variable Exercises
+Python Data Types
+Python Numbers
+Python Casting
+Python Strings
+Python Strings
+Slicing Strings
+Modify Strings
+Concatenate Strings
+Format Strings
+Escape Characters
+String Methods
+String Exercises
+Python Booleans
+Python Operators
+Python Lists
+Python Lists
+Access List Items
+Change List Items
+Add List Items
+Remove List Items
+Loop Lists
+List Comprehension
+Sort Lists
+Copy Lists
+Join Lists
+List Methods
+List Exercises
+Python Tuples
+Python Tuples
+Access Tuples
+Update Tuples
+Unpack Tuples
+Loop Tuples
+Join Tuples
+Tuple Methods
+Tuple Exercises
+Python Sets
+Python Sets
+Access Set Items
+Add Set Items
+Remove Set Items
+Loop Sets
+Join Sets
+Set Methods
+Set Exercises
+Python Dictionaries
+Python Dictionaries
+Access Items
+Change Items
+Add Items
+Remove Items
+Loop Dictionaries
+Copy Dictionaries
+Nested Dictionaries
+Dictionary Methods
+Dictionary Exercises
+Python If...Else
+Python Match
+Python While Loops
+Python For Loops
+Python Functions
+Python Lambda
+Python Arrays
+Python OOP
+Python Classes/Objects
+Python Inheritance
+Python Iterators
+Python Polymorphism
+Python Scope
+Python Modules
+Python Dates
+Python Math
+Python JSON
+Python RegEx
+Python PIP
+Python Try...Except
+Python String Formatting
+Python User Input
+Python VirtualEnv
+File Handling
+Python File Handling
+Python Read Files
+Python Write/Create Files
+Python Delete Files
+Python Modules
+NumPy Tutorial
+Pandas Tutorial
+SciPy Tutorial
+Django Tutorial
+Python Matplotlib
+Matplotlib Intro
+Matplotlib Get Started
+Matplotlib Pyplot
+Matplotlib Plotting
+Matplotlib Markers
+Matplotlib Line
+Matplotlib Labels
+Matplotlib Grid
+Matplotlib Subplot
+Matplotlib Scatter
+Matplotlib Bars
+Matplotlib Histograms
+Matplotlib Pie Charts
+Machine Learning
+Getting Started
+Mean Median Mode
+Standard Deviation
+Percentile
+Data Distribution
+Normal Data Distribution
+Scatter Plot
+Linear Regression
+Polynomial Regression
+Multiple Regression
+Scale
+Train/Test
+Decision Tree
+Confusion Matrix
+Hierarchical Clustering
+Logistic Regression
+Grid Search
+Categorical Data
+K-means
+Bootstrap Aggregation
+Cross Validation
+AUC - ROC Curve
+K-nearest neighbors
+Python DSA
+Python DSA
+Lists and Arrays
+Stacks
+Queues
+Linked Lists
+Hash Tables
+Trees
+Binary Trees
+Binary Search Trees
+AVL Trees
+Graphs
+Linear Search
+Binary Search
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Counting Sort
+Radix Sort
+Merge Sort
+Python MySQL
+MySQL Get Started
+MySQL Create Database
+MySQL Create Table
+MySQL Insert
+MySQL Select
+MySQL Where
+MySQL Order By
+MySQL Delete
+MySQL Drop Table
+MySQL Update
+MySQL Limit
+MySQL Join
+Python MongoDB
+MongoDB Get Started
+MongoDB Create DB
+MongoDB Collection
+MongoDB Insert
+MongoDB Find
+MongoDB Query
+MongoDB Sort
+MongoDB Delete
+MongoDB Drop Collection
+MongoDB Update
+MongoDB Limit
+Python Reference
+Python Overview
+Python Built-in Functions
+Python String Methods
+Python List Methods
+Python Dictionary Methods
+Python Tuple Methods
+Python Set Methods
+Python File Methods
+Python Keywords
+Python Exceptions
+Python Glossary
+Module Reference
+Random Module
+Requests Module
+Statistics Module
+Math Module
+cMath Module
+Python How To
+Remove List Duplicates
+Reverse a String
+Add Two Numbers
+Python Examples
+Python Examples
+Python Compiler
+Python Exercises
+Python Quiz
+Python Server
+Python Syllabus
+Python Study Plan
+Python Interview Q&A
+Python Bootcamp
+Python Certificate
+Python Training
+Python
+Syllabus
+❮ Previous
+Next ❯
+Introduction
+The
+W3Schools Python Tutorial
+is comprehensive and beginner-friendly.
+It will give you a fundamental knowledge of Python.
+It is designed for beginners and requires no prior experience with programming.
+The content has been carefully made to be bite-sized, simple, and easy to understand.
+The content has been proven by millions of users over the years. It is updated and improved frequently.
+The syllabus outline and its sequence are structured so you can learn Python step by step, from the introduction, to creating your first application with Python.
+Get Started With Python »
+Learning Outcomes
+Understand Python basics, such as syntax, variables, and data types.
+Write Python code using loops, conditionals, and functions.
+Handle files (open, read, write) using Python.
+Use Python libraries and modules for specific tasks.
+Work with data structures like lists, tuples, sets, and dictionaries.
+Develop programs that use object-oriented concepts such as classes and inheritance.
+Develop a problem-solving mindset.
+Note:
+Are you a teacher teaching Python programming?
+W3Schools Academy
+is a toolbox of features that can help you teach. It offers classroom features such as pre-built study plans, classroom administration and much more. Read more about
+Academy here
+.
+Which Subjects Are Python Relevant For?
+Computer Science
+Python can be used to learn programming
+Mathematics
+Python can help solve math problems and do calculations
+Science (Physics, Chemistry, Biology)
+Python can be used to make scientific models and undertake experiments
+Economics and Finance
+Python can be used to analyze data, understand trends, and do financial calculations
+Data Science and Analytics
+Python and its libraries can be used for big data and to find patterns
+Robotics and Engineering
+Python can be used to make programs to control robots or test engineering projects
+Art and Design
+Python can be used to create digital art, interactive projects, and automate tasks
+And more
+Python can be useful for many other subjects
+Get Started
+Activities
+In this tutorial we offer different activities for you to learn Python for free:
+Lessons
+Exercises
+Quizzes
+Sign in to Track Progress
+You can also create a free account to track your progress.
+As a signed-in user, you get access to features such as:
+Learning paths
+Sandbox and lab environments
+Achievements
+And much more!
+Sign Up - It's free
+Overview of the Modules
+Python HOME
+Python Intro
+Python Get Started
+Python Syntax
+Python Comments
+Python Variables
+Python Data Types
+Python Numbers
+Python Casting
+Python Strings
+Python Booleans
+Python Operators
+Python Lists
+Python Tuples
+Python Sets
+Python Dictionaries
+Python If...Else
+Python While Loops
+Python For Loops
+Python Functions
+Python Lambda
+Python Arrays
+Python Classes/Objects
+Python Inheritance
+Python Iterators
+Python Polymorphism
+Python Scope
+Python Modules
+Python Dates
+Python Math
+Python JSON
+Python RegEx
+Python PIP
+Python Try...Except
+Python User Input
+Python String Formatting
+Python File Handling
+Python NumPy
+Python Pandas
+Python SciPy
+Python Django
+Python Matplotlib
+Python Machine Learning
+Python MySQL
+Python MongoDB
+Get Started
+Sandbox and Lab Environment
+Python, like any other programming language, is best learned by working hands-on with code.
+Easily try code with our "Try it Yourself" editor.
+Here, you can edit Python code and view the result:
+Example
+print("Hello, World!")
+Try it Yourself »
+If you want to explore more and host your project, we have a feature called
+Spaces
+that allows you to build, test and deploy Python code and other backend languages.
+Here you get a secure sandbox environment called Spaces, where you can practice coding and test projects in real-time.
+Spaces allow you to test, build, and deploy code. This includes a W3Schools subdomain, hosting, and secure SSL certificates.
+Spaces require no installation and run directly in the browser.
+Features include:
+Collaboration
+File navigator
+Terminal & log
+Package manager
+Database
+Environment manager
+Analytics
+Create a Spaces Account
+Python Certification
+W3Schools offers an end-of-pathway certification program.
+Here you can take exams to get certified.
+The Python exam is a test that summarizes the W3Schools Python syllabus.
+After passing the exam you get the "Certified Python Developer" Certification.
+There are two different types of certifications:
+Non-adaptive
+Adaptive
+The non-adaptive is pass or no pass.
+The adaptive certification is adaptive and graded; students will get a grade from intermediate, advanced to professional.
+Buy Certificate »
+Are You a Teacher?
+Are you interested in learning how you can use
+W3Schools Academy
+to Teach Python programming?
+Watch a demo of
+W3Schools Academy
+. You'll see how it works, and discover how it can make teaching programming easier and more engaging.
+Watch Demo »
+❮ Previous
+Next ❯
+★
++1
+Track your progress - it's free!
+Log in
+Sign Up
+COLOR PICKER
+PLUS
+SPACES
+GET CERTIFIED
+FOR TEACHERS
+FOR BUSINESS
+CONTACT US
+×
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:
+sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:
+help@w3schools.com
+Top Tutorials
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+How To Tutorial
+SQL Tutorial
+Python Tutorial
+W3.CSS Tutorial
+Bootstrap Tutorial
+PHP Tutorial
+Java Tutorial
+C++ Tutorial
+jQuery Tutorial
+Top References
+HTML Reference
+CSS Reference
+JavaScript Reference
+SQL Reference
+Python Reference
+W3.CSS Reference
+Bootstrap Reference
+PHP Reference
+HTML Colors
+Java Reference
+Angular Reference
+jQuery Reference
+Top Examples
+HTML Examples
+CSS Examples
+JavaScript Examples
+How To Examples
+SQL Examples
+Python Examples
+W3.CSS Examples
+Bootstrap Examples
+PHP Examples
+Java Examples
+XML Examples
+jQuery Examples
+Get Certified
+HTML Certificate
+CSS Certificate
+JavaScript Certificate
+Front End Certificate
+SQL Certificate
+Python Certificate
+PHP Certificate
+jQuery Certificate
+Java Certificate
+C++ Certificate
+C# Certificate
+XML Certificate
+
+
+
+
+FORUM
+ABOUT
+ACADEMY
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness
+of all content. While using W3Schools, you agree to have read and accepted our
+terms of use
+,
+cookie and privacy policy
+.
+Copyright 1999-2025
+by Refsnes Data. All Rights Reserved.
+W3Schools is Powered by W3.CSS
+.
