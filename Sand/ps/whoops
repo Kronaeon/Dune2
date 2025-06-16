@@ -162,3 +162,195 @@ This works regardless of Y-axis flipping - just apply the flip transformation to
 
 
 
+
+
+
+import math
+
+class LogarithmicConverter:
+def **init**(self, pixel1, real1, pixel2, real2, method=“epsilon”):
+“””
+Initialize the logarithmic converter with two reference points.
+Handles the case where one of the real values is 0.
+
+```
+    Args:
+        pixel1: First pixel coordinate (y-axis)
+        real1: First real value
+        pixel2: Second pixel coordinate (y-axis) 
+        real2: Second real value
+        method: How to handle zero values
+               "epsilon" - replace 0 with small value
+               "offset" - use log(value + 1) instead of log(value)
+               "linear" - assume linear relationship if zero is involved
+    """
+    self.pixel1 = pixel1
+    self.real1 = real1
+    self.pixel2 = pixel2
+    self.real2 = real2
+    self.method = method
+    
+    print(f"Method: {method}")
+    print(f"Reference points: ({pixel1}, {real1}), ({pixel2}, {real2})")
+    
+    if method == "epsilon":
+        self._setup_epsilon()
+    elif method == "offset":
+        self._setup_offset()
+    elif method == "linear":
+        self._setup_linear()
+
+def _setup_epsilon(self):
+    """Replace zero with a very small value (epsilon)"""
+    epsilon = 1e-6
+    
+    # Replace any zero values with epsilon
+    adj_real1 = max(self.real1, epsilon) if self.real1 <= 0 else self.real1
+    adj_real2 = max(self.real2, epsilon) if self.real2 <= 0 else self.real2
+    
+    log_real1 = math.log10(adj_real1)
+    log_real2 = math.log10(adj_real2)
+    
+    self.m = (log_real2 - log_real1) / (self.pixel2 - self.pixel1)
+    self.b = log_real1 - self.m * self.pixel1
+    
+    print(f"Adjusted values: {adj_real1}, {adj_real2}")
+    print(f"log10(real_value) = {self.m:.6f} * pixel + {self.b:.6f}")
+
+def _setup_offset(self):
+    """Use log(value + 1) to handle zeros naturally"""
+    log_real1 = math.log10(self.real1 + 1)
+    log_real2 = math.log10(self.real2 + 1)
+    
+    self.m = (log_real2 - log_real1) / (self.pixel2 - self.pixel1)
+    self.b = log_real1 - self.m * self.pixel1
+    
+    print(f"Using log(value + 1)")
+    print(f"log10(real_value + 1) = {self.m:.6f} * pixel + {self.b:.6f}")
+
+def _setup_linear(self):
+    """Use simple linear relationship when zero is involved"""
+    self.slope = (self.real2 - self.real1) / (self.pixel2 - self.pixel1)
+    self.intercept = self.real1 - self.slope * self.pixel1
+    
+    print(f"Using linear relationship")
+    print(f"real_value = {self.slope:.6f} * pixel + {self.intercept:.6f}")
+
+def pixel_to_real(self, pixel):
+    """Convert pixel coordinate to real value."""
+    if self.method == "epsilon":
+        log_real = self.m * pixel + self.b
+        real_value = 10 ** log_real
+        # If result is very close to epsilon, return 0
+        epsilon = 1e-6
+        return 0 if real_value < epsilon * 10 else real_value
+        
+    elif self.method == "offset":
+        log_real = self.m * pixel + self.b
+        real_value = (10 ** log_real) - 1
+        return max(0, real_value)  # Ensure non-negative
+        
+    elif self.method == "linear":
+        return self.slope * pixel + self.intercept
+
+def verify_points(self):
+    """Verify the conversion works with the reference points."""
+    print(f"\nVerification:")
+    calc1 = self.pixel_to_real(self.pixel1)
+    calc2 = self.pixel_to_real(self.pixel2)
+    print(f"Pixel {self.pixel1} -> Real {calc1:.6f} (expected {self.real1})")
+    print(f"Pixel {self.pixel2} -> Real {calc2:.6f} (expected {self.real2})")
+```
+
+# Test all methods with your data
+
+if **name** == “**main**”:
+# Your new reference points
+# Pixel: 436, real = 0
+# Pixel: 0, real = 12.1
+
+```
+print("="*50)
+print("METHOD 1: EPSILON (replace 0 with tiny value)")
+print("="*50)
+converter1 = LogarithmicConverter(436, 0, 0, 12.1, method="epsilon")
+converter1.verify_points()
+
+# Test some intermediate values
+test_pixels = [100, 200, 300, 400]
+print(f"\nTest conversions:")
+for p in test_pixels:
+    result = converter1.pixel_to_real(p)
+    print(f"Pixel {p} -> Real {result:.6f}")
+
+print("\n" + "="*50)
+print("METHOD 2: OFFSET (use log(value + 1))")
+print("="*50)
+converter2 = LogarithmicConverter(436, 0, 0, 12.1, method="offset")
+converter2.verify_points()
+
+print(f"\nTest conversions:")
+for p in test_pixels:
+    result = converter2.pixel_to_real(p)
+    print(f"Pixel {p} -> Real {result:.6f}")
+
+print("\n" + "="*50)
+print("METHOD 3: LINEAR (simple linear relationship)")
+print("="*50)
+converter3 = LogarithmicConverter(436, 0, 0, 12.1, method="linear")
+converter3.verify_points()
+
+print(f"\nTest conversions:")
+for p in test_pixels:
+    result = converter3.pixel_to_real(p)
+    print(f"Pixel {p} -> Real {result:.6f}")
+```
+
+def quick_convert_with_zero(pixel, pixel1, real1, pixel2, real2, method=“linear”):
+“””
+Quick function for when you have zero values in your scale.
+
+```
+Args:
+    pixel: Pixel to convert
+    pixel1, real1: First reference point
+    pixel2, real2: Second reference point
+    method: "epsilon", "offset", or "linear"
+"""
+if method == "linear":
+    slope = (real2 - real1) / (pixel2 - pixel1)
+    intercept = real1 - slope * pixel1
+    return slope * pixel + intercept
+
+elif method == "epsilon":
+    epsilon = 1e-6
+    adj_real1 = max(real1, epsilon) if real1 <= 0 else real1
+    adj_real2 = max(real2, epsilon) if real2 <= 0 else real2
+    
+    log_real1 = math.log10(adj_real1)
+    log_real2 = math.log10(adj_real2)
+    
+    m = (log_real2 - log_real1) / (pixel2 - pixel1)
+    b = log_real1 - m * pixel1
+    
+    result = 10 ** (m * pixel + b)
+    return 0 if result < epsilon * 10 else result
+
+elif method == "offset":
+    log_real1 = math.log10(real1 + 1)
+    log_real2 = math.log10(real2 + 1)
+    
+    m = (log_real2 - log_real1) / (pixel2 - pixel1)
+    b = log_real1 - m * pixel1
+    
+    result = (10 ** (m * pixel + b)) - 1
+    return max(0, result)
+```
+
+
+
+
+
+
+
+
