@@ -1,0 +1,164 @@
+import math
+
+class LogarithmicConverter:
+def **init**(self, pixel1, real1, pixel2, real2):
+“””
+Initialize the logarithmic converter with two reference points.
+
+```
+    Args:
+        pixel1: First pixel coordinate (y-axis)
+        real1: First real value
+        pixel2: Second pixel coordinate (y-axis) 
+        real2: Second real value
+    """
+    self.pixel1 = pixel1
+    self.real1 = real1
+    self.pixel2 = pixel2
+    self.real2 = real2
+    
+    # Calculate the linear relationship in log space
+    # log10(real_value) = m * pixel + b
+    log_real1 = math.log10(real1)
+    log_real2 = math.log10(real2)
+    
+    self.m = (log_real2 - log_real1) / (pixel2 - pixel1)
+    self.b = log_real1 - self.m * pixel1
+    
+    print(f"Linear relationship in log space:")
+    print(f"log10(real_value) = {self.m:.6f} * pixel + {self.b:.6f}")
+
+def pixel_to_real(self, pixel):
+    """
+    Convert pixel coordinate to real value.
+    
+    Args:
+        pixel: Pixel coordinate on y-axis
+        
+    Returns:
+        Real value corresponding to the pixel coordinate
+    """
+    log_real = self.m * pixel + self.b
+    real_value = 10 ** log_real
+    return real_value
+
+def verify_points(self):
+    """Verify the conversion works with the reference points."""
+    print(f"\nVerification:")
+    calc1 = self.pixel_to_real(self.pixel1)
+    calc2 = self.pixel_to_real(self.pixel2)
+    print(f"Pixel {self.pixel1} -> Real {calc1:.6f} (expected {self.real1})")
+    print(f"Pixel {self.pixel2} -> Real {calc2:.6f} (expected {self.real2})")
+```
+
+# Example usage with your data
+
+if **name** == “**main**”:
+# Your reference points
+# Point 1: pixel = 345, real = 0.1
+# Point 2: pixel = 203, real = 1.0
+converter = LogarithmicConverter(345, 0.1, 203, 1.0)
+
+```
+# Verify with your third point
+pixel_test = 62
+real_result = converter.pixel_to_real(pixel_test)
+print(f"\nTest conversion:")
+print(f"Pixel {pixel_test} -> Real {real_result:.6f} (expected ~10)")
+
+# Verify reference points
+converter.verify_points()
+
+# Function for quick conversion without class
+def quick_pixel_to_real(pixel, pixel1, real1, pixel2, real2):
+    """
+    Quick function to convert pixel to real value for logarithmic scale.
+    
+    Args:
+        pixel: Pixel coordinate to convert
+        pixel1, real1: First reference point
+        pixel2, real2: Second reference point
+        
+    Returns:
+        Real value
+    """
+    log_real1 = math.log10(real1)
+    log_real2 = math.log10(real2)
+    
+    m = (log_real2 - log_real1) / (pixel2 - pixel1)
+    b = log_real1 - m * pixel1
+    
+    log_real = m * pixel + b
+    return 10 ** log_real
+
+print(f"\nQuick function test:")
+quick_result = quick_pixel_to_real(62, 345, 0.1, 203, 1.0)
+print(f"Pixel 62 -> Real {quick_result:.6f}")
+```
+
+
+
+logarithmic scale conversion. Here’s the math:
+
+For a logarithmic Y-axis, the relationship between pixel coordinates and real values follows this pattern:
+
+**Step 1: Convert to logarithmic space**
+Take any two known points: (pixel₁, real₁) and (pixel₂, real₂)
+
+Using your examples:
+
+- Point A: pixel = 345, real = 0.1
+- Point B: pixel = 203, real = 1.0
+
+Convert real values to log base 10:
+
+- log₁₀(0.1) = -1
+- log₁₀(1.0) = 0
+
+**Step 2: Find the linear relationship in log space**
+In log space, the relationship is linear:
+
+```
+log₁₀(real_value) = m × pixel + b
+```
+
+Where:
+
+- m = (log₁₀(real₂) - log₁₀(real₁)) / (pixel₂ - pixel₁)
+- b = log₁₀(real₁) - m × pixel₁
+
+Using your data:
+
+- m = (0 - (-1)) / (203 - 345) = 1 / (-142) = -0.00704
+- b = -1 - (-0.00704) × 345 = -1 + 2.43 = 1.43
+
+**Step 3: The conversion formula**
+
+```
+real_value = 10^(m × pixel + b)
+```
+
+Or with your values:
+
+```
+real_value = 10^(-0.00704 × pixel + 1.43)
+```
+
+**Verification with your third point:**
+
+- Pixel = 62: real = 10^(-0.00704 × 62 + 1.43) = 10^0.993 ≈ 10 ✓
+
+**General formula for any logarithmic axis:**
+
+```
+real_value = 10^((pixel - pixel₁) × (log₁₀(real₂) - log₁₀(real₁)) / (pixel₂ - pixel₁) + log₁₀(real₁))
+```
+
+This works regardless of Y-axis flipping - just apply the flip transformation to your pixel coordinates first, then use this formula.​​​​​​​​​​​​​​​​
+
+
+
+
+
+
+
